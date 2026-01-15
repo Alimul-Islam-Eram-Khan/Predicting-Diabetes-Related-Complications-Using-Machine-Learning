@@ -48,8 +48,5 @@ diabetes-complications-prediction/ │ ├── data/ │   ├── raw/BRFSS
 - Early detection of diabetes-related complications
 - Support for healthcare decision-making
 - Risk stratification in public health research
-🔮 Future Work
-- [ ] Expand dataset with more recent BRFSS surveys
-- [ ] Integrate deep learning models for comparison
-- [ ] Develop web-based prediction tool
-- [ ] Real-time health monitoring integration
+  
+
